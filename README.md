@@ -1,1 +1,1 @@
-# HeatMapExample
+# HeatMapExample & Response Modeling Example
